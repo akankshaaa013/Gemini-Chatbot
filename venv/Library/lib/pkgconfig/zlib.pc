@@ -1,0 +1,13 @@
+prefix=D:/ABCDE/GOOGLE IMAGE GENERATION/venv/Library
+exec_prefix=D:/ABCDE/GOOGLE IMAGE GENERATION/venv/Library
+libdir=D:/ABCDE/GOOGLE IMAGE GENERATION/venv/Library/lib
+sharedlibdir=D:/ABCDE/GOOGLE IMAGE GENERATION/venv/Library/lib
+includedir=D:/ABCDE/GOOGLE IMAGE GENERATION/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
