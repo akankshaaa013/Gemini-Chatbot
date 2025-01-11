@@ -65,7 +65,7 @@ venv\Scripts\activate       # For Windows
 </code></pre>
 
 <h3>Chatbot Appearance</h3>
-<img src = "chatbot.jpg" />
+<img src = "chatbot.png" />
 
 <h2>Troubleshooting</h2>
 <ul>
